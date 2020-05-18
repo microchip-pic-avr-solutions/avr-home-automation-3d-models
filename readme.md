@@ -1,5 +1,8 @@
 # AVR Home Automation - 3D Models
+
 This repository contains 3D models a Weather Clock and a Miniature Blinds. Both of these applications are described in the listed documents.
+
+These 3D Documents are given with the license located under [LICENSE.md](LICENSE.md).
 
 ## Related Documents
 
